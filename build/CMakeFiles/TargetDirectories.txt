@@ -1,0 +1,2 @@
+/home/leo/project/usb_camera_imu/yuanxingcamera_demo/Sensor/build/CMakeFiles/Sensor.dir
+/home/leo/project/usb_camera_imu/yuanxingcamera_demo/Sensor/build/CMakeFiles/demo.dir
